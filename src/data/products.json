@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": {
+        "uz": "Samsung Galaxy S24 Ultra",
+        "ru": "Samsung Galaxy S24 Ultra"
+      },
+      "description": {
+        "uz": "8GB/256GB, Titanium Black rangda. Eng so'nggi texnologiyalar bilan jihozlangan",
+        "ru": "8GB/256GB, цвет Titanium Black. Оснащен новейшими технологиями"
+      },
+      "price": 15000000,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&auto=format"
+    },
+    {
+      "id": "2",
+      "title": {
+        "uz": "MacBook Pro 16",
+        "ru": "MacBook Pro 16"
+      },
+      "description": {
+        "uz": "M3 Pro, 32GB RAM, 1TB SSD. Professional foydalanuvchilar uchun",
+        "ru": "M3 Pro, 32GB RAM, 1TB SSD. Для профессиональных пользователей"
+      },
+      "price": 25000000,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&auto=format"
+    },
+    {
+      "id": "3",
+      "title": {
+        "uz": "Klassik Kostyum",
+        "ru": "Классический Костюм"
+      },
+      "description": {
+        "uz": "Yuqori sifatli material, zamonaviy dizayn. Biznes va rasmiy uchrashuvlar uchun ideal",
+        "ru": "Высококачественный материал, современный дизайн. Идеально для бизнеса и официальных встреч"
+      },
+      "price": 1200000,
+      "category": "clothing",
+      "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=500&auto=format"
+    }, {
+      "id": "4",
+      "title": {
+        "uz": "Bekhruz",
+        "ru": "Bekhruz"
+      },
+      "description": {
+        "uz": "Bekhruz Berdimurodov Frontend dasturchi",
+        "ru": "Bekhruz Berdimurodov Frontend разработчик"
+      },
+      "price": 1200222222000,
+      "category": "accessories",
+      "image": "https://robocontest.uz/storage/uploads/profile/123406NIx4o8VcEwocPT7gRtPSJSP9.jpg"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "electronics": {
+    "uz": "Elektro texnika",
+    "ru": "Электроника"
+  },
+  "clothing": {
+    "uz": "Kiyimlar",
+    "ru": "Одежда"
+  },
+  "footwear": {
+    "uz": "Oyoq kiyimlar",
+    "ru": "Обувь"
+  },
+  "accessories": {
+    "uz": "Aksesuarlar",
+    "ru": "Аксессуары"
+  },
+  "buyNow": {
+    "uz": "Sotib olish",
+    "ru": "Купить"
+  },
+  "contactUs": {
+    "uz": "Biz bilan bog'lanish",
+    "ru": "Связаться с нами"
+  },
+  "delivery": {
+    "uz": "O'zbekistonning 12 ta viloyatiga yetkazib berish",
+    "ru": "Доставка в 12 регионов Узбекистана"
+  },
+  "seller": {
+    "uz": "Sotuvchi: Afruz Khayitov",
+    "ru": "Продавец: Афруз Хайитов"
+  },
+  "developers": {
+    "uz": "Dasturchilar: Bekhruz Berdimurodov, Aziz Bakhriddinov",
+    "ru": "Разработчики: Бехруз Бердимуродов, Азиз Бахриддинов"
+  }
+}
