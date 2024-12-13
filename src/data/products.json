@@ -44,16 +44,30 @@
     }, {
       "id": "4",
       "title": {
-        "uz": "Bekhruz",
-        "ru": "Bekhruz"
+        "uz": "Airpods",
+        "ru": "Airpods"
       },
       "description": {
-        "uz": "Bekhruz Berdimurodov Frontend dasturchi",
-        "ru": "Bekhruz Berdimurodov Frontend разработчик"
+        "uz": "Original Airpods Pro",
+        "ru": "Оригинальные Airpods Pro"
       },
-      "price": 1200222222000,
+      "price": 300000,
       "category": "accessories",
-      "image": "https://robocontest.uz/storage/uploads/profile/123406NIx4o8VcEwocPT7gRtPSJSP9.jpg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyAr91TlHBe4Xr6l-WIvE32nEuAPiV1PwXg&s"
+    }
+    ,{
+      "id": "5",
+      "title": {
+        "uz": "Oltin rang tufli",
+        "ru": "Oltin rang tufli"
+      },
+      "description": {
+        "uz": "Мужские броги, золотистые оксфорды на высоком каблуке, прочные нескользящие модельные туфли для свадьбы, деловой вечеринки, банкета, офиса",
+        "ru": "Мужские броги, золотистые оксфорды на высоком каблуке, прочные нескользящие модельные туфли для свадьбы, деловой вечеринки, банкета, офиса"
+      },
+      "price": 200000,
+      "category": "footwear",
+      "image": "https://img.kwcdn.com/product/1e13cb998f4/964c2966-2d99-41a9-b356-4d93ddf48261_800x800.jpeg?imageView2/2/w/800/q/70/format/webp"
     }
   ]
 }
